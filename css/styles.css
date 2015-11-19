@@ -508,8 +508,10 @@ object {
     color: #ffffff;
 }
 
-.testimonials.venue{
-     background: url(../images/bg-4.jpg) no-repeat center fixed;
+#venue{
+    background: url(../images/bg-4.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+            background-size: cover;
 }
 
 .testimonials .color-overlay {
